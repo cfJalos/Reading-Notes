@@ -17,7 +17,7 @@ Code 201 Reading Notes
 * Read09  : [Forms and Events]()
 * Read10  : [JS Debugging]()
 * Read11  : [Assorted Topics]()
-* Read12  : [Docs for the HTML <canvas> Element & Chart.js]()
+* Read12  : [Docs for the HTML canvas Element & Chart.js]()
 * Read13  : [Local Storage]()
 * Read14a : [CSS Transforms, Transitions, and Animations]()
 * Read14b : [What Google Learned About Teams]()
