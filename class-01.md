@@ -1,5 +1,5 @@
 
-[Home page]()
+[Home page](https://cfjalos.github.io/code201-reading-notes/)
 
 # Intro to HTML and Javascript#
 
