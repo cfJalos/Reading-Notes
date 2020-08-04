@@ -7,7 +7,7 @@ Code 201 Reading Notes
 ### Table of contents ###
 
 * Read01  : [Introductory HTML and JavaScript](https://cfjalos.github.io/code201-reading-notes/class-01)
-* Read02  : [HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
+* Read02  : [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://cfjalos.github.io/code201-reading-notes/class-02)
 * Read03  : [HTML Lists, CSS Boxes, JS Control Flow]()
 * Read04  : [HTML Links, CSS Layout, JS Functions]()
 * Read05  : [HTML Images; CSS Color & Text]()
