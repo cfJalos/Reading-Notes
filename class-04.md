@@ -1,4 +1,6 @@
 
+[Home page](https://cfjalos.github.io/code201-reading-notes/)
+
 # HTML Links, CSS Layout, JS Function #
 
 ### HTML ###
@@ -75,9 +77,9 @@ All these themes have a specific relationship to normal flow.
 function doSomething() {
   console.log("HELLO WORLD");
 }
-```
+```V
 then call it
-```html
+```htmlV
 doSomething();
 doSomething();
 doSomething();
