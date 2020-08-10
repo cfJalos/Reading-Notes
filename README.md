@@ -11,7 +11,7 @@ Code 201 Reading Notes
 * Read03  : [HTML Lists, CSS Boxes, JS Control Flow](https://cfjalos.github.io/code201-reading-notes/class-03)
 * Read04  : [HTML Links, CSS Layout, JS Functions](https://cfjalos.github.io/code201-reading-notes/class-04)
 * Read05  : [HTML Images; CSS Color & Text]()
-* Read06  : [JS Object Literals; The DOM]()
+* Read06  : [JS Object Literals; The DOM](https://cfjalos.github.io/code201-reading-notes/class-05)
 * Read07  : [HTML Tables; JS Constructor Functions]()
 * Read08  : [More CSS Layout]()
 * Read09  : [Forms and Events]()
