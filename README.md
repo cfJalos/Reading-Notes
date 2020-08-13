@@ -10,7 +10,7 @@ Code 201 Reading Notes
 * Read02  : [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://cfjalos.github.io/code201-reading-notes/class-02)
 * Read03  : [HTML Lists, CSS Boxes, JS Control Flow](https://cfjalos.github.io/code201-reading-notes/class-03)
 * Read04  : [HTML Links, CSS Layout, JS Functions](https://cfjalos.github.io/code201-reading-notes/class-04)
-* Read05  : [HTML Images; CSS Color & Text]()
+* Read05  : [HTML Images; CSS Color & Text](https://cfjalos.github.io/code201-reading-notes/class-05)
 * Read06  : [JS Object Literals; The DOM](https://cfjalos.github.io/code201-reading-notes/class-06)
 * Read07  : [HTML Tables; JS Constructor Functions]()
 * Read08  : [More CSS Layout](https://cfjalos.github.io/code201-reading-notes/class-08)
