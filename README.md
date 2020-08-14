@@ -15,7 +15,7 @@ Code 201 Reading Notes
 * Read07  : [HTML Tables; JS Constructor Functions](https://cfjalos.github.io/code201-reading-notes/class-07)
 * Read08  : [More CSS Layout](https://cfjalos.github.io/code201-reading-notes/class-08)
 * Read09  : [Forms and Events](https://cfjalos.github.io/code201-reading-notes/class-09)
-* Read10  : [JS Debugging]()
+* Read10  : [JS Debugging](https://cfjalos.github.io/code201-reading-notes/class-10)
 * Read11  : [Assorted Topics]()
 * Read12  : [Docs for the HTML canvas Element & Chart]()
 * Read13  : [Local Storage]()
