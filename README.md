@@ -16,7 +16,7 @@ Code 201 Reading Notes
 * Read08  : [More CSS Layout](https://cfjalos.github.io/code201-reading-notes/class-08)
 * Read09  : [Forms and Events](https://cfjalos.github.io/code201-reading-notes/class-09)
 * Read10  : [JS Debugging](https://cfjalos.github.io/code201-reading-notes/class-10)
-* Read11  : [Assorted Topics]()
+* Read11  : [Assorted Topics](https://cfjalos.github.io/code201-reading-notes/class-11)
 * Read12  : [Docs for the HTML canvas Element & Chart]()
 * Read13  : [Local Storage]()
 * Read14a : [CSS Transforms, Transitions, and Animations]()
