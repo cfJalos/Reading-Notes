@@ -27,9 +27,9 @@
 ## Code 301 - Intermediate Software Development ##
 
 * Read01  : [SMACSS and Responsive Web Design](https://cfjalos.github.io/Reading-Notes/301/class-01)
-* Read02  : [jQuery, Events, and The DOM](https://cfjalos.github.io/Reading-Notes/301/class-01)
-* Read03  : [Flexbox and Templating](https://cfjalos.github.io/Reading-Notes/301/class-01)
-* Read04  : [Responsive Web Design and Regular Expressions]()
+* Read02  : [jQuery, Events, and The DOM](https://cfjalos.github.io/Reading-Notes/301/class-02)
+* Read03  : [Flexbox and Templating](https://cfjalos.github.io/Reading-Notes/301/class-03)
+* Read04  : [Responsive Web Design and Regular Expressions](https://cfjalos.github.io/Reading-Notes/301/class-04)
 * Read05  : [Heroku Deployment]()
 * Read06  : [Node, Express, and APIs]()
 * Read07  : [APIs continued]()
