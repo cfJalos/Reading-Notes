@@ -30,7 +30,7 @@
 * Read02  : [jQuery, Events, and The DOM](https://cfjalos.github.io/Reading-Notes/301/class-02)
 * Read03  : [Flexbox and Templating](https://cfjalos.github.io/Reading-Notes/301/class-03)
 * Read04  : [Responsive Web Design and Regular Expressions](https://cfjalos.github.io/Reading-Notes/301/class-04)
-* Read05  : [Heroku Deployment]()
+* Read05  : [Heroku Deployment](https://cfjalos.github.io/Reading-Notes/301/class-05)
 * Read06  : [Node, Express, and APIs]()
 * Read07  : [APIs continued]()
 * Read08  : [SQL]()
