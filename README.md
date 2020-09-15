@@ -32,7 +32,7 @@
 * Read04  : [Responsive Web Design and Regular Expressions](https://cfjalos.github.io/Reading-Notes/301/class-04)
 * Read05  : [Heroku Deployment](https://cfjalos.github.io/Reading-Notes/301/class-05)
 * Read06  : [Node, Express, and APIs](https://cfjalos.github.io/Reading-Notes/301/class-06)
-* Read07  : [APIs continued]()
+* Read07  : [APIs continued](https://cfjalos.github.io/Reading-Notes/301/class-07)
 * Read08  : [SQL]()
 * Read09  : [Refactoring]()
 * Read10  : [The Call Stack and Debugging]()
