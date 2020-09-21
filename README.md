@@ -33,7 +33,7 @@
 * Read05  : [Heroku Deployment](https://cfjalos.github.io/Reading-Notes/301/class-05)
 * Read06  : [Node, Express, and APIs](https://cfjalos.github.io/Reading-Notes/301/class-06)
 * Read07  : [APIs continued](https://cfjalos.github.io/Reading-Notes/301/class-07)
-* Read08  : [SQL](https://cfjalos.github.io/Reading-Notes/301/class-08)
+* Read08  : [SQL](https://cfjalos.github.io/Reading-Notes/301/class-11)
 * Read09  : [Refactoring]()
 * Read10  : [The Call Stack and Debugging]()
 * Read11  : [EJS]()
